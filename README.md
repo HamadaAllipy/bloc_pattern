@@ -1,5 +1,7 @@
 # bloc_pattern
 
+[![wakatime](https://wakatime.com/badge/github/HamadaAllipy/bloc_pattern.svg)](https://wakatime.com/badge/github/HamadaAllipy/bloc_pattern)
+
 A new Flutter project.
 
 ## Getting Started
